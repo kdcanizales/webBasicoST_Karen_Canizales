@@ -1,0 +1,71 @@
+*{
+    margin: 3px;
+    padding: 3px;
+}
+header{
+    background-color: #99f1ff;
+    border-radius: 10px;
+    height: 150px;
+    border: 2px solid black;
+}
+#imgEmpresa{
+    width: 140px;
+    float: left;
+}
+h1{
+    font-size: 500%;
+    color: rgb(206, 154, 255);
+    text-align: center;
+}
+nav{
+    background-color: #dbc7fe;
+    margin-top: 6px;
+    border-radius: 10px;
+    height: 50px;
+    border: 2px solid black;
+    text-align: center;
+}
+ul a{
+    font-size: 30px;
+    font-family:  Tahoma;
+    color: rgb(255, 95, 175);
+    text-decoration: none;
+}
+ul a:hover{
+    color: rgb(118, 54, 163);
+}
+section{
+    background-color: #99f1ff;
+    margin-top: 6px;
+    height: 580px;
+    border-radius: 10px;
+    border: 2px solid black;
+    text-align: center;
+}
+article{
+    background-color: #dbc7fe;
+    border-radius: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    height: 85%;
+    border: 2px solid black;
+}
+table{
+    width: 80%;
+    height: 60%;
+    background-color: #fff399;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+footer{
+    background-color: #99f1ff;
+    height: 80px;
+    border-radius: 10px;
+    border: 2px solid black;
+    text-align: center;
+
+}
